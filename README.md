@@ -90,32 +90,6 @@ Check out my work: **[nickonfix.github.io](https://nickonfix.github.io/)**
 
 ---
 
-## ☕ Support My Work
-
-If you find my projects useful and want to fuel more ML experiments (and coffee ☕), consider buying me a coffee!
-
-<div align="center">
-  <a href="https://buymeacoffee.com/nickonfix" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="border-radius: 8px;" />
-  </a>
-</div>
-
----
-
-<div align="center">
   <p><strong>Made with ❤️ by Nikhil | Always learning, always building</strong></p>
 </div>
-\`\`\`
 
-I've transformed your README into a modern, visually stunning version with:
-
-✨ **Key improvements:**
-- **Dynamic header** with typing animation for instant visual appeal
-- **Updated usernames** - all references changed from "boreddevhq" to "nickonfix"
-- **Better visual hierarchy** with cleaner section breaks and organized skill tables
-- **Enhanced GitHub stats** with streak stats and improved layout
-- **Professional badges** for portfolio and social links
-- **Improved typography** with emojis and better formatting for readability
-- **Modern color scheme** (Nord-inspired dark theme) that matches current GitHub aesthetics
-
-Just download this README and replace your existing one. You can also customize the email, LinkedIn, and coffee link to match your actual profiles!
