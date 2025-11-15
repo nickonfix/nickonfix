@@ -18,69 +18,42 @@ Just a guy obsessed with building intelligent systems that actually generalize. 
 
 Check out my work: **[Noway](https://nickonfix.github.io/)**
 
-<h2 align="center">🧠 Skills in Stock (Because My GPU Says So) 😎</h2>
+# 🧠 Skills in Stock
 
-<div align="center">
+*Because My GPU Says So* 😎
 
-<table>
-  <!-- ROW 1 -->
-  <tr>
-    <td align="center" width="75">
-      <img src="https://skillicons.dev/icons?i=python" width="32" /><br><small>Python</small>
-    </td>
-    <td align="center" width="75">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32" /><br><small>PyTorch</small>
-    </td>
-    <td align="center" width="75">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32" /><br><small>TensorFlow</small>
-    </td>
-    <td align="center" width="75">
-      <img src="https://keras.io/img/logo.png" width="32" /><br><small>Keras</small>
-    </td>
-    <td align="center" width="75">
-      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="32" /><br><small>Scikit-Learn</small>
-    </td>
-    <td align="center" width="75">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="32" /><br><small>NumPy</small>
-    </td>
-    <td align="center" width="75">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32" /><br><small>Pandas</small>
-    </td>
-    <td align="center" width="75">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="32" /><br><small>OpenCV</small>
-    </td>
-  </tr>
+A showcase of my technical skills and expertise in data science, machine learning, and development tools.
 
-  <!-- ROW 2 -->
-  <tr>
-    <td align="center" width="75">
-      <img src="https://matplotlib.org/_static/logo_dark.svg" width="32" /><br><small>Matplotlib</small>
-    </td>
-    <td align="center" width="75">
-      <img src="https://raw.githubusercontent.com/scipy/scipy/master/doc/source/_static/scipyshiny_small.png" width="32" /><br><small>SciPy</small>
-    </td>
-    <td align="center" width="75">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" /><br><small>HuggingFace</small>
-    </td>
-    <td align="center" width="75">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="32" /><br><small>Jupyter</small>
-    </td>
-    <td align="center" width="75">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="32" /><br><small>Anaconda</small>
-    </td>
-    <td align="center" width="75">
-      <img src="https://assets-global.website-files.com/5f6d5b8f0f5c51bbf09f2f05/62f10c024b7c65a5c54d4b06_neovim-mark.svg" width="32" /><br><small>Neovim</small>
-    </td>
-    <td align="center" width="75">
-      <img src="https://skillicons.dev/icons?i=docker" width="32" /><br><small>Docker</small>
-    </td>
-    <td align="center" width="75">
-      <img src="https://skillicons.dev/icons?i=git" width="32" /><br><small>Git</small>
-    </td>
-  </tr>
-</table>
+## Skills
 
+### Data Science & Machine Learning
+<div>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=keras" alt="Keras" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-Learn" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50" />
 </div>
+
+### Visualization & Computation
+<div>
+  <img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=scipy" alt="SciPy" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=huggingface" alt="HuggingFace" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="50" height="50" />
+</div>
+
+### Development Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
+</div>
+
 
 
 ## 📊 GitHub Stats
