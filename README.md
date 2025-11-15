@@ -20,7 +20,7 @@ Just a guy obsessed with building intelligent systems that actually generalize. 
 Check out my work: **[Noway](https://nickonfix.github.io/)**
 
 
-<h2 align="center">🧠 Deep Learning / ML Stack</h2>
+<h2 align="center"> Skills in stock </h2>
 
 <div align="center">
 
@@ -72,19 +72,6 @@ Check out my work: **[Noway](https://nickonfix.github.io/)**
       <img src="https://skillicons.dev/icons?i=git" width="32">
       <br><small>Git</small>
     </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<h2 align="center">💻 Other Skills</h2>
-
-<div align="center">
-
-<table>
-  <tr>
     <td align="center" width="80px">
       <img src="https://skillicons.dev/icons?i=html" width="32" />
       <br><small>HTML</small>
@@ -103,8 +90,8 @@ Check out my work: **[Noway](https://nickonfix.github.io/)**
     </td>
   </tr>
 </table>
-</div>
 
+</div>
 ---
 
 ## 📊 GitHub Stats
