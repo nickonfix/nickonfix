@@ -74,5 +74,6 @@ Some Fun Facts
 
 </div>
 
+![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nickkonfix&theme=github)
 
 
