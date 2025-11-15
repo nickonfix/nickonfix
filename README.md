@@ -17,7 +17,7 @@ Just a guy obsessed with building intelligent systems that actually generalize. 
 
 **Goal:** Build ML models that don't overfit like they're cramming for finals.
 
-Check out my work: **[nickonfix.github.io](https://nickonfix.github.io/)**
+Check out my work: **Noway (https://nickonfix.github.io/)**
 
 
 <h2 align="center">🧠 Deep Learning / ML Stack</h2>
