@@ -75,11 +75,4 @@ Some Fun Facts
 </div>
 
 
-## 🐍 Snake Eating My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nickonfix/nickonfix/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-
 
