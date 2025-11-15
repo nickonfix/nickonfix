@@ -19,32 +19,90 @@ I'm a **Deep Learning & Machine Learning enthusiast** obsessed with building int
 
 Check out my work: **[nickonfix.github.io](https://nickonfix.github.io/)**
 
----
 
-## 🛠️ Deep Learning & ML Stack
+<h2 align="center">🧠 Deep Learning / ML Stack</h2>
 
 <div align="center">
 
-| Core ML | Frameworks | Tools & Utilities |
-|---------|-----------|------------------|
-| ![Python](https://skillicons.dev/icons?i=python) **Python** | ![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg) **PyTorch** | ![Jupyter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg) **Jupyter** |
-| ![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg) **NumPy** | ![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) **TensorFlow** | ![Docker](https://skillicons.dev/icons?i=docker) **Docker** |
-| ![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg) **Pandas** | ![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/2/2d/Scikit_learn_logo_small.svg) **Scikit-Learn** | ![Git](https://skillicons.dev/icons?i=git) **Git** |
-| ![OpenCV](https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg) **OpenCV** | ![Anaconda](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg) **Anaconda** | ![Linux](https://skillicons.dev/icons?i=linux) **Linux** |
+<table>
+  <tr>
+    <td align="center" width="80px">
+      <img src="https://skillicons.dev/icons?i=python" width="32" />
+      <br><small>Python</small>
+    </td>
+    <td align="center" width="80px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32" />
+      <br><small>PyTorch</small>
+    </td>
+    <td align="center" width="80px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32" />
+      <br><small>TensorFlow</small>
+    </td>
+    <td align="center" width="80px">
+      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="32" />
+      <br><small>Scikit-Learn</small>
+    </td>
+    <td align="center" width="80px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="32" />
+      <br><small>NumPy</small>
+    </td>
+    <td align="center" width="80px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32" />
+      <br><small>Pandas</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="32" />
+      <br><small>OpenCV</small>
+    </td>
+    <td align="center" width="80px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="32" />
+      <br><small>Jupyter</small>
+    </td>
+    <td align="center" width="80px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="32"/>
+      <br><small>Anaconda</small>
+    </td>
+    <td align="center" width="80px">
+      <img src="https://skillicons.dev/icons?i=docker" width="32" />
+      <br><small>Docker</small>
+    </td>
+    <td align="center" width="80px">
+      <img src="https://skillicons.dev/icons?i=git" width="32">
+      <br><small>Git</small>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 💻 Other Skills
+<h2 align="center">💻 Other Skills</h2>
 
 <div align="center">
 
-| Frontend | Web |
-|----------|-----|
-| ![HTML](https://skillicons.dev/icons?i=html) **HTML** | ![JavaScript](https://skillicons.dev/icons?i=js) **JavaScript** |
-| ![CSS](https://skillicons.dev/icons?i=css) **CSS** | ![React](https://skillicons.dev/icons?i=react) **React** |
-
+<table>
+  <tr>
+    <td align="center" width="80px">
+      <img src="https://skillicons.dev/icons?i=html" width="32" />
+      <br><small>HTML</small>
+    </td>
+    <td align="center" width="80px">
+      <img src="https://skillicons.dev/icons?i=css" width="32" />
+      <br><small>CSS</small>
+    </td>
+    <td align="center" width="80px">
+      <img src="https://skillicons.dev/icons?i=js" width="32" />
+      <br><small>JavaScript</small>
+    </td>
+    <td align="center" width="80px">
+      <img src="https://skillicons.dev/icons?i=react" width="32" />
+      <br><small>React</small>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
