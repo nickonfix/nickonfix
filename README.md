@@ -6,8 +6,10 @@
 
 ###
 
-<p align="left">I’m a  from India and work mainly on Deep learning. Wanna know more? see my work at <a href="https://nickonfix.github.io/">Noway</a>.</p>
-
+<p align="left">
+  I’m a machine learning enthusiast from India, currently trying to convince neural networks to behave like well-trained pets (with mixed results).  
+  Wanna see my experiments, projects, and occasional model meltdowns? Check out <a href="https://nickonfix.github.io/">Noway</a>.
+</p>
 
 ###
 
@@ -15,13 +17,13 @@
 
 ###
 
-<p align="left">📚 I'm learning how to code with my full sanity.<br>🎯 Goal: None.</p>
+<p align="left">
+📚 Currently studying Deep Learning and slowly losing neurons while training them.<br>
+🎯 Goal: To get a model that trains without exploding. (Ambitious, I know.)
+</p>
 
 ###
 
-
-
-<!-- 🧰 Tech Stack -->
 <h3 align="center"><samp>🧰 Tech Stack</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -52,20 +54,22 @@
       <br>SwiftUI
     </td>
   </tr>
+
   <tr>
     <!-- Backend -->
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>JavaScript
+      <br>Node.js
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
+
     <!-- General Purpose -->
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
+      <br>Python (aka: my life now)
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
@@ -80,14 +84,15 @@
       <br>C
     </td>
     <td align="center" width="100">
-    <img src="https://www.svgrepo.com/download/373617/gamemaker.svg" width="48" height="48" alt="GML" />
+      <img src="https://www.svgrepo.com/download/373617/gamemaker.svg" width="48" height="48" alt="GML" />
       <br>GML
     </td>
     <td align="center" width="100">
       <img src="https://www.svgrepo.com/show/373445/assembly.svg" width="48" height="48" alt="Assembly" />
-      <br>Assembly
+      <br>Assembly (for when I want pain)
     </td>
   </tr>
+
   <tr>
     <!-- Tools & OS -->
     <td align="center" width="100">
@@ -96,7 +101,7 @@
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
+      <br>Docker (aka: “it works on my container”)
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
@@ -110,18 +115,17 @@
       <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
       <br>NPM
     </td>
-
   </tr>
 
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="MacOS" />
-      <br>MacOS
+      <br>MacOS (where my GPU fears me)
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
-    </td>    
+    </td>
     <td align="center" width="100">
       <img src="https://www.svgrepo.com/download/349366/freebsd.svg" width="48" height="48" alt="FreeBSD" />
       <br>FreeBSD
@@ -133,7 +137,7 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
       <br>Windows
-    </td>    
+    </td>
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="48" height="48" alt="Android" />
       <br>Android
@@ -143,10 +147,8 @@
 </div>
 
 <br>
-mac user by heart <3
-
-###
-###
+mac user by heart &lt;3 (yes, I train ML on it… please don’t judge)
+<br><br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boreddevhq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -158,9 +160,9 @@ mac user by heart <3
 ###
 
 <p align="left">
-  If you enjoy my work and want to support what I do, consider buying me a coffee!
+  If you like my work and want to support more questionable machine learning experiments, consider buying me a coffee!
 </p >
-<p align= "center">
+<p align="center">
   <a href="https://buymeacoffee.com/boreddevhq" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="border-radius: 8px;" />
   </a>
