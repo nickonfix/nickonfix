@@ -74,16 +74,6 @@ Some Fun Facts
 
 </div>
 
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickonfix&theme=transparent" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nickonfix&theme=transparent" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nickonfix&theme=transparent" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nickonfix&theme=transparent" /></td>
-  </tr>
-</table>
 
 
 
