@@ -3,7 +3,6 @@
 </div>
 
 Some Fun Facts
-
 - I enjoy reading ML papers more than I probably should.  
 - I prototype ideas way faster than I stick to sleep schedules.  
 - I keep my models clean and my commit history… less so.  
@@ -73,31 +72,5 @@ Some Fun Facts
 
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=nickonfix&show_icons=true&theme=nord&hide_border=true&count_private=true" height="160" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nickonfix&layout=compact&theme=nord&hide_border=true" height="160" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickonfix&theme=nord&hide_border=true" height="160" />
-
-</div>
-
-
-## 🚀 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-nickonfix.github.io-00D9FF?style=for-the-badge&logoColor=white)](https://nickonfix.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-nickonfix-1f6feb?style=for-the-badge&logo=github)](https://github.com/nickonfix)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nickonfix)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail)](mailto:nikhil@nickonfix.com)
-
-</div>
-
-<div align="center">
-  <p><strong>Made with ❤️ by Nikhil | Always learning, always building</strong></p>
-</div>
 
