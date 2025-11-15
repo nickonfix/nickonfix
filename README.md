@@ -4,7 +4,6 @@
 
 <div align="center">
   <p><strong>Deep Learning • Machine Learning • Neural Networks</strong></p>
-  <p> 💻 Making GPUs happy</p>
 </div>
 
 ---
@@ -24,106 +23,77 @@ Check out my work: **[Noway](https://nickonfix.github.io/)**
 <div align="center">
 
 <table>
+  <!-- ROW 1 -->
   <tr>
-    <td align="center" width="80px">
-      <img src="https://skillicons.dev/icons?i=python" width="32" />
-      <br><small>Python</small>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=python" width="32" /><br><small>Python</small>
     </td>
-    <td align="center" width="80px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32" />
-      <br><small>PyTorch</small>
+    <td align="center" width="75">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32" /><br><small>PyTorch</small>
     </td>
-    <td align="center" width="80px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32" />
-      <br><small>TensorFlow</small>
+    <td align="center" width="75">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32" /><br><small>TensorFlow</small>
     </td>
-    <td align="center" width="80px">
-      <img src="https://keras.io/img/logo.png" width="32" />
-      <br><small>Keras</small>
+    <td align="center" width="75">
+      <img src="https://keras.io/img/logo.png" width="32" /><br><small>Keras</small>
     </td>
-    <td align="center" width="80px">
-      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="32" />
-      <br><small>Scikit-Learn</small>
+    <td align="center" width="75">
+      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="32" /><br><small>Scikit-Learn</small>
     </td>
-    <td align="center" width="80px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="32" />
-      <br><small>NumPy</small>
+    <td align="center" width="75">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="32" /><br><small>NumPy</small>
     </td>
-    <td align="center" width="80px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32" />
-      <br><small>Pandas</small>
+    <td align="center" width="75">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32" /><br><small>Pandas</small>
+    </td>
+    <td align="center" width="75">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="32" /><br><small>OpenCV</small>
     </td>
   </tr>
 
+  <!-- ROW 2 -->
   <tr>
-    <td align="center" width="80px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="32" />
-      <br><small>OpenCV</small>
+    <td align="center" width="75">
+      <img src="https://matplotlib.org/_static/logo_dark.svg" width="32" /><br><small>Matplotlib</small>
     </td>
-    <td align="center" width="80px">
-      <img src="https://matplotlib.org/_static/logo_dark.svg" width="32" />
-      <br><small>Matplotlib</small>
+    <td align="center" width="75">
+      <img src="https://raw.githubusercontent.com/scipy/scipy/master/doc/source/_static/scipyshiny_small.png" width="32" /><br><small>SciPy</small>
     </td>
-    <td align="center" width="80px">
-      <img src="https://raw.githubusercontent.com/scipy/scipy/master/doc/source/_static/scipyshiny_small.png" width="32" />
-      <br><small>SciPy</small>
+    <td align="center" width="75">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" /><br><small>HuggingFace</small>
     </td>
-    <td align="center" width="80px">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" />
-      <br><small>HuggingFace</small>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=jupyter" width="32" /><br><small>Jupyter</small>
     </td>
-    <td align="center" width="80px">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="32" />
-      <br><small>Jupyter</small>
+    <td align="center" width="75">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="32" /><br><small>Anaconda</small>
     </td>
-    <td align="center" width="80px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="32" />
-      <br><small>Anaconda</small>
+    <td align="center" width="75">
+      <img src="https://assets-global.website-files.com/5f6d5b8f0f5c51bbf09f2f05/62f10c024b7c65a5c54d4b06_neovim-mark.svg" width="32" /><br><small>Neovim</small>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="80px">
-      <img src="https://skillicons.dev/icons?i=vim" width="32" />
-      <br><small>Vim</small>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=docker" width="32" /><br><small>Docker</small>
     </td>
-    <td align="center" width="80px">
-      <img src="https://assets-global.website-files.com/5f6d5b8f0f5c51bbf09f2f05/62f10c024b7c65a5c54d4b06_neovim-mark.svg" width="32" />
-      <br><small>Neovim (I use it btw)</small>
-    </td>
-    <td align="center" width="80px">
-      <img src="https://skillicons.dev/icons?i=docker" width="32" />
-      <br><small>Docker</small>
-    </td>
-    <td align="center" width="80px">
-      <img src="https://skillicons.dev/icons?i=git" width="32" />
-      <br><small>Git</small>
-    </td>
-    <td align="center" width="80px">
-      <img src="https://skillicons.dev/icons?i=linux" width="32" />
-      <br><small>Linux</small>
-    </td>
-    <td align="center" width="80px">
-      <img src="https://skillicons.dev/icons?i=html" width="32" />
-      <br><small>HTML</small>
-    </td>
-    <td align="center" width="80px">
-      <img src="https://skillicons.dev/icons?i=css" width="32" />
-      <br><small>CSS</small>
-    </td>
-    <td align="center" width="80px">
-      <img src="https://skillicons.dev/icons?i=js" width="32" />
-      <br><small>JavaScript</small>
-    </td>
-    <td align="center" width="80px">
-      <img src="https://skillicons.dev/icons?i=react" width="32" />
-      <br><small>React</small>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=git" width="32" /><br><small>Git</small>
     </td>
   </tr>
 </table>
 
 </div>
 
+
+## 📊 GitHub Stats
+
+<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=nickonfix&show_icons=true&theme=nord&hide_border=true&count_private=true" height="160" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nickonfix&layout=compact&theme=nord&hide_border=true" height="160" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickonfix&theme=nord&hide_border=true" height="160" />
+
+</div>
 
 
 ## 🚀 Let's Connect
