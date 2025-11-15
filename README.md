@@ -72,6 +72,14 @@ Some Fun Facts
   </tr>
 </table>
 
+
+## 🧭 Activity Breakdown
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nickonfix&theme=tokyonight" />
+</p>
+
+
 </div>
 
 
