@@ -7,24 +7,16 @@
 </div>
 
 ---
+## 🤓 Fun Facts
 
-## 🎯 About Me
+- I enjoy reading ML papers more than I probably should.  
+- I prototype ideas way faster than I stick to sleep schedules.  
+- I keep my models clean and my commit history… less so.  
+- I learn new frameworks just to avoid finishing old projects.  
+- Portfolio: **[Noway](https://nickonfix.github.io/)**
 
-Just a guy obsessed with building intelligent systems that actually generalize. When I'm not training neural networks or fighting dimension mismatches, you'll find me exploring cutting-edge ML research, optimizing model architectures, and occasionally convincing GPUs not to catch fire.
 
-**Currently:** Deep diving into transformer architectures, few-shot learning, and whatever makes my GPU fans spin faster.
 
-**Goal:** Build ML models that don't overfit like they're cramming for finals.
-
-Check out my work: **[Noway](https://nickonfix.github.io/)**
-
-# 🧠 Skills in Stock
-
-*Because My GPU Says So* 😎
-
-A showcase of my technical skills and expertise in data science, machine learning, and development tools.
-
-## Skills
 
 <div align="center">
 
