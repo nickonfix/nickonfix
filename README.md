@@ -49,19 +49,19 @@ Some Fun Facts
       <img src="https://matplotlib.org/_static/logo_dark.svg" width="32" /><br><small>Matplotlib</small>
     </td>
     <td align="center" width="75">
-      <img src="https://raw.githubusercontent.com/scipy/scipy/master/doc/source/_static/scipyshiny_small.png" width="32" /><br><small>SciPy</small>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="32" /><br><small>SciPy</small>
     </td>
     <td align="center" width="75">
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" /><br><small>HuggingFace</small>
     </td>
     <td align="center" width="75">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="32" /><br><small>Jupyter</small>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="32" /><br><small>Jupyter</small>
     </td>
     <td align="center" width="75">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="32" /><br><small>Anaconda</small>
     </td>
     <td align="center" width="75">
-      <img src="https://assets-global.website-files.com/5f6d5b8f0f5c51bbf09f2f05/62f10c024b7c65a5c54d4b06_neovim-mark.svg" width="32" /><br><small>Neovim</small>
+      <img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark.svg" width="32" /><br><small>Neovim</small>
     </td>
     <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=docker" width="32" /><br><small>Docker</small>
