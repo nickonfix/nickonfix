@@ -4,14 +4,14 @@
 
 <div align="center">
   <p><strong>Deep Learning • Machine Learning • Neural Networks</strong></p>
-  <p>🧠 Training models | 🔥 Debugging gradients | 💻 Making GPUs happy</p>
+  <p> 💻 Making GPUs happy</p>
 </div>
 
 ---
 
 ## 🎯 About Me
 
-I'm a **Deep Learning & Machine Learning enthusiast** obsessed with building intelligent systems that actually generalize. When I'm not training neural networks or fighting dimension mismatches, you'll find me exploring cutting-edge ML research, optimizing model architectures, and occasionally convincing GPUs not to catch fire.
+Just a guy obsessed with building intelligent systems that actually generalize. When I'm not training neural networks or fighting dimension mismatches, you'll find me exploring cutting-edge ML research, optimizing model architectures, and occasionally convincing GPUs not to catch fire.
 
 **Currently:** Deep diving into transformer architectures, few-shot learning, and whatever makes my GPU fans spin faster.
 
