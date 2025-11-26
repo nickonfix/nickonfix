@@ -9,7 +9,6 @@ Some Fun Facts
 - I prototype ideas way faster than I stick to sleep schedules.  
 - I keep my models clean and my commit history… less so.  
 - I learn new frameworks just to avoid finishing old projects.  
-- Skip the formalites: **[Noway](https://nickonfix.github.io/)**
 
 
 <div align="center">
