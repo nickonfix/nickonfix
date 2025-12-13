@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=false&width=800&lines=Hey%2C+I'm+Nikhil+%E2%80%A2+@nickonfix" alt="Typing Animation" />
 </div>
 
-
 Some Fun Facts
 
 - I enjoy reading ML papers more than I probably should.  
@@ -60,7 +59,7 @@ Some Fun Facts
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="32" /><br><small>Anaconda</small>
     </td>
     <td align="center" width="75">
-      <img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark.svg" width="32" /><br><small>Neovim</small>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="32" /><br><small>Neovim</small>
     </td>
     <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=docker" width="32" /><br><small>Docker</small>
